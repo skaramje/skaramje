@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Front-end development using JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on beginner front-end development projects
-- 📫 You can reach me via email skaramje@gmail.com
+- 📫 You can reach me via [email](mailto:skaramje@gmail.com)
 
 
 Here's my Hash blockie created using https://github.com/johntango/hashDemoBlockies
